@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Outfit";
+  text-decoration: none;
 }
 
 .box {
@@ -48,11 +49,9 @@
   padding: 0px 60px;
 }
 
-.attribution {
+.attribution,
+.attribution a {
   font-size: 14px;
   margin-top: 8px;
-}
-
-.attribution a {
   color: rgb(32, 30, 179);
 }
